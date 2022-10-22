@@ -1,0 +1,18 @@
+{
+  "active": "ali",
+  "interval":10,
+  "ipv6": [
+    "aaa.xxx.com","bbb.xxx.com"
+  ],
+  "ipv4": [
+    "ccc.xxx.com","ddd.xxx.com"
+  ],
+  "ali": {
+    "accessKeyId":"阿里云的访问key",
+    "accessKeySecret":"阿里云访问的秘钥"
+  },
+  "tencent": {
+    "accessKeyId":"腾讯云的访问key",
+    "accessKeySecret":"腾讯云的访问的秘钥"
+  }
+}
